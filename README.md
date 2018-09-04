@@ -1,4 +1,4 @@
-# some test string here
-test string here
+# Dimirtos personal overlay
 
-this is test repository
+Some embedded and wiki stuff will be placed here
+
