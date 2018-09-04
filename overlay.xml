@@ -1,4 +1,6 @@
- <repo quality="experimental" status="unofficial">
+<?xml version="1.0"?>
+<repositories version="1.0">
+    <repo quality="experimental" status="unofficial">
       <name>dimirtos</name>
       <description lang="en">personal overlay with some embedded and wiki stuff</description>
       <homepage>https://github.com/irtos/overlay_irtos</homepage>
@@ -10,3 +12,4 @@
       <source type="git">git+ssh://git@github.com/irtos/overlay_irtos.git</source>
       <feed>https://github.com/irtos/overlay_irtos/commits/master.atom</feed>
     </repo>
+</repositories>
